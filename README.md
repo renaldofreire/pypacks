@@ -1,3 +1,3 @@
 # pypacks
 
-## List all packages installeds in Linux.
+## List all packages installeds in Arch Linux.
